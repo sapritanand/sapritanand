@@ -42,7 +42,6 @@
 
 - Machine Learning
 - Data Science 
-- Neural Networks 
 - Data Ananlysis
 </p>
 
