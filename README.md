@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating contributions" />
 </p>
 <h1 align="center">Hi 👋, I'm SAPRIT ANAND</h1>
-<h3 align="center">Looking forward to  work in Data Science , Machine Learning and Artificial Intelligence.</h3>
+<h3 align="center">Looking forward in  Machine Learning and Artificial Intelligence.</h3>
 
 <p align="left">
   <a href="https://twitter.com/sapritanand" target="blank">
