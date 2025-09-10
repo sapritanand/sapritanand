@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+👋%2C+I'm+SAPRIT+ANAND;Machine+Learning+%26+AI+Enthusiast;Quants+Machine Learning;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+👋%2C+I'm+SAPRIT+ANAND;Machine+Learning+%26+AI+Enthusiast;Mathematics;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
   </h1>
   <h3>🚀 Looking forward in Machine Learning and Artificial Intelligence 🤖</h3>
   
