@@ -59,4 +59,4 @@ git, docker, heroku, vs code, ollama, crewai
 
 ---
 
-*the best way to predict the future is to create it*
+
