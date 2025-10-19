@@ -43,13 +43,6 @@ git, docker, heroku, vs code, ollama, crewai
 
 ---
 
-## github stats
-
-![](https://github-readme-stats.vercel.app/api?username=sapritanand&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=sapritanand&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sapritanand&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9)
 
 ---
 
